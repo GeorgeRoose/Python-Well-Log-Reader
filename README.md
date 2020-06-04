@@ -1,2 +1,2 @@
 # Python-Well-Log-Reader
-Python code to read Well Logs from .txt files. The text files are LAS files with minor edits. 
+Simple python program to read Well Logs from .txt files. The text files are LAS files with minor edits. 
